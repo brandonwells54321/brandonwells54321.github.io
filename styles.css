@@ -1,9 +1,9 @@
 body{
-    background:yellow;
+    background:green;
     font-family:Arial, Helvetica, sans-serif;
 }
 
 hl {
-    color: darkred;
+    color: red;
     text-align:center;
 }
