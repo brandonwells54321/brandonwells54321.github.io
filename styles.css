@@ -32,13 +32,13 @@ body{
 h1{
     color: white;
     text-align:center;
-    text-shadow:4px solid black;
+    text-shadow:4px black;
 }
 
 h2{
     color: white;
     text-align:center;
-    text-shadow:4px solid black;
+    text-shadow:4px black;
 }
 
 h1:hover{
