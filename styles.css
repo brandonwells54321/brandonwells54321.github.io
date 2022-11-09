@@ -32,13 +32,11 @@ body{
 hl{
     color: white;
     text-align:center;
-    text-shadow:4px black;
 }
 
 h2{
     color: white;
     text-align:center;
-    text-shadow:4px black;
 }
 
 h2:hover{
