@@ -29,7 +29,7 @@ body{
     border:4px dashed red;
 }
 
-h1{
+hl{
     color: white;
     text-align:center;
     text-shadow:4px black;
@@ -41,7 +41,7 @@ h2{
     text-shadow:4px black;
 }
 
-h1:hover{
+hl:hover{
     color: red
 }
 
