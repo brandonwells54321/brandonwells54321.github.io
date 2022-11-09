@@ -41,6 +41,10 @@ h2{
     text-shadow:4px black;
 }
 
+h2:hover{
+    color:red
+}
+
 hl:hover{
     color: red
 }
