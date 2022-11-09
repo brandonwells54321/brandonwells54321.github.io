@@ -32,7 +32,7 @@ body{
 hl {
     color: white;
     text-align:center;
-    border:1px solid black;
+    text-shadow:1px solid black;
 }
 
 h2{
